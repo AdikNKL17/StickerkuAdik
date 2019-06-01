@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Ramadhan Ustadz Sticker WAStickerPacks</string>
+    <string name="tray_image_content_description">Sticker Pack Tray Image</string>
+    <string name="more_info_button">More info about sticker pack</string>
+    <string name="add_to_whatsapp">Add to WhatsApp</string>
+    <string name="add_button_content_description">Add sticker pack to WhatsApp</string>
+    <string name="title_activity_sticker_packs_list">Sticker Packs</string>
+    <string name="dot">•</string>
+    <string name="title_activity_sticker_pack_details_single_pack">Sticker Pack</string>
+    <string name="title_activity_sticker_pack_details_multiple_pack">Sticker details</string>
+    <string name="title_activity_sticker_pack_info">Info</string>
+    <string name="view_webpage">View webpage</string>
+    <string name="send_email">Send email</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="error_adding_sticker_pack">Could not add this sticker pack. Please install the latest version of WhatsApp before adding sticker pack</string>
+    <string name="error_message">Error: %s \nSee logcat for stack trace.</string>
+    <string name="title_validation_error">Error with the pack</string>
+    <string name="info_screen_tray_icon">Tray icon</string>
+    <string name="details_pack_already_added">Sticker pack added to WhatsApp</string>
+    <string name="info_send_email_to_prompt">Send email with</string>
+    <string name="add_pack_fail_prompt_update_whatsapp">Sticker pack not added. If you\'d like to add it, make sure you update to the latest version of WhatsApp.</string>
+    <string name="add_pack_fail_prompt_update_play_link">Update</string>
+    <string name="cannot_find_play_store">Google Play is not installed on the device.</string>
+
+    <string name="startapp_app_id">203025042</string>
+    <string name="admobApp">ca-app-pub-2107389518366239~8939868324</string>
+    <string name="banner">ca-app-pub-2107389518366239/1991316597</string>
+    <string name="interstitial">ca-app-pub-2107389518366239/1608173216</string>
+
+
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="isi">
+        Privacy Policy of This Apps\n
+
+          This Application collects some Personal Data from its Users
+
+            \nTypes of Data collected\n
+            Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookies, Usage Data and email address.\n
+            Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.\n
+            The Personal Data may be freely provided by the User, or collected automatically when using this Application.\n
+            Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.\n
+            Failure to provide certain Personal Data may make it impossible for this Application to provide its services.\n
+            Users are responsible for any Personal Data of third parties obtained, published or shared through this Application and confirm that they have the third party consent to provide the Data to the Owner.\n
+            Mode and place of processing the Data\n
+            Methods of processing\n
+            The Data Controller processes the Data of Users in a proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.\n
+            The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Data Controller, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of the site (administration, sales, marketing, legal, system administration) or external parties (such as third party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Data Controller at any time.\n        Place\n
+            The Data is processed at the Data Controllers operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.\n
+            Retention time\n
+            The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.\n
+            The use of the collected Data\n
+            The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Access to third party accounts, Analytics, Advertising, Contacting the User and Platform services and hosting.\n
+            Facebook permissions asked by this Application\n
+            This Application may ask for some Facebook permissions allowing it to perform actions with the User Facebook account and to retrieve information, including Personal Data, from it.\n
+            For more information about the following permissions, refer to the Facebook permissions documentation and to the Facebook privacy policy.\n
+            The permissions asked are the following:\n
+            Basic information\n
+            By default, this includes certain Users Data such as id, name, picture, gender, and their locale. Certain connections of the User, such as the Friends, are also available. If the User has made more of their Data public, more information will be available.\n
+            Status Updates\n
+            Update the User status.\n
+            Detailed information on the processing of Personal Data\n
+            Personal Data is collected for the following purposes and using the following services:\n
+
+
+    </string>
+
+</resources>

@@ -1,0 +1,1228 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.mungmedia.nasihatulama",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "category": "KATEGORI1",
+      "identifier": "ulama",
+      "name": "Nasihat Ulama",
+      "publisher": "Mung Media",
+      "tray_image_file": "cover-ulama.png",
+      "publisher_email": "aku@mrmung.com",
+      "publisher_website": "https://www.mrmung.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    },
+    {
+      "category": "KATEGORI1",
+      "identifier": "doaulama",
+      "name": "Doa-Doa Ulama",
+      "publisher": "Mung Media",
+      "tray_image_file": "doaulama.png",
+      "publisher_email": "aku@mrmung.com",
+      "publisher_website": "https://www.mrmung.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    },
+    {
+      "category": "KATEGORI1",
+      "identifier": "abdulshomad",
+      "name": "Ust. Abdul Shomad",
+      "publisher": "Mung Media",
+      "tray_image_file": "icon.png",
+      "publisher_email": "aku@mrmung.com",
+      "publisher_website": "https://www.mrmung.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    },
+    {
+      "category": "KATEGORI1",
+      "identifier": "adihidayat",
+      "name": "Ust. Adi Hidayat",
+      "publisher": "Mung Media",
+      "tray_image_file": "icon-adi.png",
+      "publisher_email": "aku@mrmung.com",
+      "publisher_website": "https://www.mrmung.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    },
+    {
+      "category": "KATEGORI1",
+      "identifier": "habib",
+      "name": "Nasihat Habaib",
+      "publisher": "Mung Media",
+      "tray_image_file": "habib.png",
+      "publisher_email": "aku@mrmung.com",
+      "publisher_website": "https://www.mrmung.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    },
+    {
+      "category": "KATEGORI1",
+      "identifier": "kyai",
+      "name": "Nasihat Kyai",
+      "publisher": "Mung Media",
+      "tray_image_file": "mbah.png",
+      "publisher_email": "aku@mrmung.com",
+      "publisher_website": "https://www.mrmung.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    },
+
+    {
+      "category": "KATEGORI2",
+      "identifier": "katamutiara",
+      "name": "Kata Mutiara Islami #1",
+      "publisher": "Mung Media",
+      "tray_image_file": "icon.png",
+      "publisher_email": "aku@mrmung.com",
+      "publisher_website": "https://www.mrmung.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    },
+    {
+      "category": "KATEGORI2",
+      "identifier": "katamutiara2",
+      "name": "Kata Mutiara Islami #2",
+      "publisher": "Mung Media",
+      "tray_image_file": "icon.png",
+      "publisher_email": "aku@mrmung.com",
+      "publisher_website": "https://www.mrmung.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    },
+    {
+      "category": "KATEGORI2",
+      "identifier": "bismillah",
+      "name": "Kaligrafi Bismillah",
+      "publisher": "Mung Media",
+      "tray_image_file": "icon.png",
+      "publisher_email": "aku@mrmung.com",
+      "publisher_website": "https://www.mrmung.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    },
+    {
+      "category": "KATEGORI2",
+      "identifier": "kaligrafi1",
+      "name": "Kaligrafi Arab #1",
+      "publisher": "Mung Media",
+      "tray_image_file": "icon.png",
+      "publisher_email": "aku@mrmung.com",
+      "publisher_website": "https://www.mrmung.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    },
+
+    {
+      "category": "KATEGORI3",
+      "identifier": "stikersantri",
+      "name": "Stiker Santri",
+      "publisher": "Mung Media",
+      "tray_image_file": "icon.png",
+      "publisher_email": "aku@mrmung.com",
+      "publisher_website": "https://www.mrmung.com",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["❓","🤔"]
+        }
+      ]
+    }
+
+  ]
+}
